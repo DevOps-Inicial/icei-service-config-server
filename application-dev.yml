@@ -13,7 +13,7 @@ spring:
     open-in-view: false
     generate-ddl: true
   application:
-    name: user-service
+    name: config-dev
 springdoc:
   packages-to-scan: 'link.grooverdev.web.api.userservice.controller'
 logging:
